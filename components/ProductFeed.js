@@ -58,3 +58,5 @@ function ProductFeed({ products }) {
 }
 
 export default ProductFeed;
+
+// banner and middle pic corrected

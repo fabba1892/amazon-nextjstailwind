@@ -27,3 +27,5 @@ function Banner() {
 }
 
 export default Banner;
+
+// banner and middle pic corrected
