@@ -8,3 +8,5 @@ const firebaseConfig = {
   messagingSenderId: "807960834145",
   appId: "1:807960834145:web:e56379641ddbc9b234fa20",
 };
+
+// yarn firebase, app creatd register without hosting
