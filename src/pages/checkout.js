@@ -99,3 +99,4 @@ function checkout() {
 }
 
 export default checkout;
+// onclick route page from home to basket
