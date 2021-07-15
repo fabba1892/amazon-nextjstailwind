@@ -101,3 +101,4 @@ function checkout() {
 export default checkout;
 // onclick route page from home to basket
 // checkout pg banner done
+// add item to basket in the redux store

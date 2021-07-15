@@ -70,3 +70,5 @@ function Product({ id, title, price, description, category, image }) {
 }
 
 export default Product;
+
+// add item to basket in the redux store
