@@ -15,3 +15,5 @@ const MyApp = ({ Component, pageProps }) => {
 };
 
 export default MyApp;
+
+// now whole app has next auth state ssr
