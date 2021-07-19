@@ -92,3 +92,4 @@ export default Header;
 // now signIn to googl epage works
 // now sign in and sign out works
 // onclick route page from home to basket
+// get the items.length from payload & get da value
