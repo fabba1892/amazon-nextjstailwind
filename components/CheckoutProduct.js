@@ -79,3 +79,5 @@ function CheckoutProduct({
 }
 
 export default CheckoutProduct;
+
+// products in checkout page, star image & descriptn
