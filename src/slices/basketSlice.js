@@ -44,3 +44,4 @@ export const selectTotal = (state) =>
 export default basketSlice.reducer;
 
 // basket slice setup
+// payload in the redux store
