@@ -93,3 +93,4 @@ export default Header;
 // now sign in and sign out works
 // onclick route page from home to basket
 // get the items.length from payload & get da value
+// add to basket works
