@@ -82,3 +82,4 @@ export default CheckoutProduct;
 
 // products in checkout page, star image & descriptn
 // addedd currency and lazy loading
+// add item to basket products and buttons
