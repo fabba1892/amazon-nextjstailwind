@@ -103,3 +103,4 @@ export default checkout;
 // checkout pg banner done
 // add item to basket in the redux store
 // products in checkout page, star image & descriptn
+// right side subtotal and currency of items
