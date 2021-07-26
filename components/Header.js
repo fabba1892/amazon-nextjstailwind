@@ -94,3 +94,4 @@ export default Header;
 // onclick route page from home to basket
 // get the items.length from payload & get da value
 // add to basket works
+// autoplay working and sticky top header

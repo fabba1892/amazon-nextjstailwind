@@ -29,3 +29,4 @@ function Banner() {
 export default Banner;
 
 // banner and middle pic corrected
+// autoplay working and sticky top header
