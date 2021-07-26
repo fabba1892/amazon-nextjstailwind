@@ -84,3 +84,4 @@ export default CheckoutProduct;
 // addedd currency and lazy loading
 // add item to basket products and buttons
 // remove from basket is working with button
+// push into redux store
