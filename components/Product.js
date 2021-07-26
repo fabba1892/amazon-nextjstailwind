@@ -76,3 +76,4 @@ export default Product;
 // addedd currency and lazy loading
 // add item to basket products and buttons
 // total for the items and checkout
+// currency to RSA
