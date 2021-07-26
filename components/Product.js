@@ -75,3 +75,4 @@ export default Product;
 // add to basket works
 // addedd currency and lazy loading
 // add item to basket products and buttons
+// total for the items and checkout
