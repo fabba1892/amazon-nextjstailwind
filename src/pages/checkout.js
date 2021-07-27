@@ -108,4 +108,4 @@ export default checkout;
 // checkout and prod
 // yarn add stripe/stripe-js
 // loadStripe for public key only
-// stripePromise funct and await with a async always
+// stripePromise funct and await with a async lways
