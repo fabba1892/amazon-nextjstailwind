@@ -35,3 +35,6 @@ export default async (req, res) => {
 
   res.status(200).json({ id: session.id });
 };
+
+// yarn add axios
+// make request to this end point in api
