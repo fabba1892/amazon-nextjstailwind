@@ -107,3 +107,5 @@ export default checkout;
 // total for the items and checkout
 // checkout and prod
 // yarn add stripe/stripe-js
+// loadStripe for public key only
+// stripePromise funct and await with a async always
