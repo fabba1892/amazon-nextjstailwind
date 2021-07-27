@@ -106,3 +106,4 @@ export default checkout;
 // right side subtotal and currency of items
 // total for the items and checkout
 // checkout and prod
+// yarn add stripe/stripe-js
