@@ -95,3 +95,4 @@ export default Header;
 // get the items.length from payload & get da value
 // add to basket works
 // autoplay working and sticky top header
+// autoplay working and sticky top header
