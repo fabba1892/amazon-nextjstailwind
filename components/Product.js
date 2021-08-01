@@ -77,3 +77,4 @@ export default Product;
 // add item to basket products and buttons
 // total for the items and checkout
 // currency to RSA
+// total for the items and checkout

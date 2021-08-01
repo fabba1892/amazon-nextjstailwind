@@ -47,3 +47,4 @@ export default basketSlice.reducer;
 // payload in the redux store
 // remove from basket is working with button
 // total for the items and checkout
+// total for the items and checkout
