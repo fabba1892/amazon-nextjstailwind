@@ -111,3 +111,4 @@ export default checkout;
 // stripePromise funct and await with a async lways
 // total for the items and checkout
 // make request to this end point in api
+// stripe items and email
