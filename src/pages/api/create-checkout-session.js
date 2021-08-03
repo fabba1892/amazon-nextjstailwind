@@ -41,3 +41,4 @@ export default async (req, res) => {
 // yarn add axios
 // make request to this end point in api
 // stripe items and email
+// axios and stripe corrected
