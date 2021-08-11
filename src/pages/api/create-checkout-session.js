@@ -43,3 +43,4 @@ export default async (req, res) => {
 // stripe items and email
 // axios and stripe corrected
 // redirect user/customer to stripe checkout session
+// onclick then redirect to strip payment page
