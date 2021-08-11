@@ -42,3 +42,4 @@ export default async (req, res) => {
 // make request to this end point in api
 // stripe items and email
 // axios and stripe corrected
+// redirect user/customer to stripe checkout session

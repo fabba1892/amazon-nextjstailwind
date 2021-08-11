@@ -112,3 +112,4 @@ export default checkout;
 // total for the items and checkout
 // make request to this end point in api
 // stripe items and email
+// redirect user/customer to stripe checkout session
